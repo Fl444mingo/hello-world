@@ -1,2 +1,3 @@
 # hello-world
-For learning to use GitHub.
+Repo for learning to use GitHub.
+Notepad++ is a good text editor
